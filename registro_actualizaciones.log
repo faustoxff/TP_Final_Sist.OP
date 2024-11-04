@@ -1,0 +1,264 @@
+[33mVerificando e instalando actualizaciones...[0m
+[34mActualizando sistema en Windows...[0m
+   -    \                                                                                                                            -                                                                                                                         Nombre                                         Id                                    Versión       Disponible    Origen
+-----------------------------------------------------------------------------------------------------------------------
+Vortex                                         NexusMods.Vortex                      1.7.8         1.12.6        winget
+GIGABYTE Control Center 24.03.25.01            GIGABYTE.GigabyteControlCenter        < 24.07.02.01 24.07.02.01   winget
+Git                                            Git.Git                               2.46.2        2.47.0        winget
+VLC media player                               VideoLAN.VLC                          3.0.18        3.0.21        winget
+WinRAR 6.01 (64-bit)                           RARLab.WinRAR                         6.01.0        7.01.0        winget
+MySQL Workbench 8.0 CE                         Oracle.MySQLWorkbench                 8.0.36        8.0.38        winget
+Google Chrome                                  Google.Chrome                         130.0.6723.71 130.0.6723.92 winget
+Liberica JDK 17 (64-bit)                       BellSoft.LibericaJDK.17               17.0.8.10001  17.0.13.12    winget
+Logitech G HUB                                 Logitech.GHUB                         2021.11.1775  2024.7.1167   winget
+Airshipper                                     Veloren.Airshipper                    0.10.0        0.14.0        winget
+Java(TM) SE Development Kit 17.0.3.1 (64-bit)  Oracle.JDK.17                         17.0.3.1      17.0.12.0     winget
+Java 8 Update 411 (64-bit)                     Oracle.JavaRuntimeEnvironment         8.0.4110.9    8.0.4310.10   winget
+Nefarius Virtual Gamepad Emulation Bus Driver  ViGEm.ViGEmBus                        1.17.333.0    1.22.0        winget
+Node.js                                        OpenJS.NodeJS.LTS                     18.20.4       22.11.0       winget
+Visual Studio Community 2022                   Microsoft.VisualStudio.2022.Community 17.9.7        17.11.5       winget
+MSI Afterburner 4.6.4                          Guru3D.Afterburner                    4.6.4         4.6.5         winget
+OBS Studio                                     OBSProject.OBSStudio                  29.1.3        30.2.3        winget
+RivaTuner Statistics Server 7.3.3              Guru3D.RTSS                           7.3.3         7.3.6         winget
+TeamViewer                                     TeamViewer.TeamViewer                 15.22.3       15.59.3       winget
+Ubisoft Connect                                Ubisoft.Connect                       154.0.11086   157.1.0.11142 winget
+Microsoft Windows Desktop Runtime - 3.1.28 (x… Microsoft.DotNet.DesktopRuntime.3_1   3.1.28        3.1.32        winget
+Microsoft .NET SDK 6.0.400 (x64)               Microsoft.DotNet.SDK.6                6.0.400       6.0.427       winget
+Epic Games Launcher                            EpicGames.EpicGamesLauncher           1.3.0.0       1.3.93.0      winget
+Microsoft Windows Desktop Runtime - 6.0.8 (x6… Microsoft.DotNet.DesktopRuntime.6     6.0.8         6.0.35        winget
+Microsoft Windows Desktop Runtime - 8.0.3 (x6… Microsoft.DotNet.DesktopRuntime.8     8.0.3         8.0.10        winget
+Advanced Archive Password Recovery             Elcomsoft.ArchivePassword             4.53          4.66.266.6965 winget
+Discord                                        Discord.Discord                       1.0.9007      1.0.9168      winget
+Stremio                                        Stremio.Stremio                       4.4.164       4.4.168       winget
+WeMod                                          WeMod.WeMod                           7.1.19        9.10.7        winget
+r2modman 3.1.32                                ebkr.r2modman                         3.1.32        3.1.51        winget
+Inicio de desarrollo                           Microsoft.DevHome                     0.1800.640.0  0.1801.640.0  winget
+31 actualizaciones disponibles.
+2 paquete(s) tienen números de versión que no se pueden determinar. Use --include-unknown para ver todos los resultados.
+
+Instalando dependencias:
+Este paquete requiere las siguientes dependencias:
+  - Paquetes
+      Microsoft.VCRedist.2015+.x64
+      Microsoft.VCLibs.Desktop.14 [>= 14.0.24217.0]
+      Microsoft.WindowsAppRuntime.1.5
+(1/29) Encontrado Vortex [NexusMods.Vortex] Versión 1.12.6
+El propietario de esta aplicación le concede una licencia.
+Microsoft no es responsable, ni tampoco concede ninguna licencia de paquetes de terceros.
+Descargando https://github.com/Nexus-Mods/Vortex/releases/download/v1.12.6/vortex-setup-1.12.6.exe
+   -    \    |    /    -    \    |    /    -                                                                                                                           ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.00 B /  163 MB  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1024 KB /  163 MB  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  4.00 MB /  163 MB  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  10.0 MB /  163 MB  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  14.0 MB /  163 MB  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  15.0 MB /  163 MB  ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  20.0 MB /  163 MB  ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  25.0 MB /  163 MB  █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  29.0 MB /  163 MB  █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  32.0 MB /  163 MB  ██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  36.0 MB /  163 MB  ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  40.0 MB /  163 MB  ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  43.0 MB /  163 MB  ████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  47.0 MB /  163 MB  █████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  50.0 MB /  163 MB  █████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  53.0 MB /  163 MB  ██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  58.0 MB /  163 MB  ███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  61.0 MB /  163 MB  ███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  65.0 MB /  163 MB  ████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  69.0 MB /  163 MB  █████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  73.0 MB /  163 MB  ██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  77.0 MB /  163 MB  ██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  81.0 MB /  163 MB  ███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  83.0 MB /  163 MB  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  88.0 MB /  163 MB  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  90.9 MB /  163 MB  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  94.9 MB /  163 MB  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  97.9 MB /  163 MB  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒   101 MB /  163 MB  ███████████████████▒▒▒▒▒▒▒▒▒▒▒   106 MB /  163 MB  ████████████████████▒▒▒▒▒▒▒▒▒▒   110 MB /  163 MB  ████████████████████▒▒▒▒▒▒▒▒▒▒   113 MB /  163 MB  █████████████████████▒▒▒▒▒▒▒▒▒   117 MB /  163 MB  ██████████████████████▒▒▒▒▒▒▒▒   120 MB /  163 MB  ██████████████████████▒▒▒▒▒▒▒▒   124 MB /  163 MB  ███████████████████████▒▒▒▒▒▒▒   127 MB /  163 MB  ████████████████████████▒▒▒▒▒▒   132 MB /  163 MB  █████████████████████████▒▒▒▒▒   136 MB /  163 MB  █████████████████████████▒▒▒▒▒   140 MB /  163 MB  ██████████████████████████▒▒▒▒   143 MB /  163 MB  ██████████████████████████▒▒▒▒   146 MB /  163 MB  ███████████████████████████▒▒▒   150 MB /  163 MB  ████████████████████████████▒▒   154 MB /  163 MB  █████████████████████████████▒   158 MB /  163 MB  █████████████████████████████▒   162 MB /  163 MB  ██████████████████████████████   163 MB /  163 MB
+El hash del instalador se verificó correctamente
+Iniciando instalación de paquete...
+   -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |                                                                                                                         Instalado correctamente
+
+(2/29) Encontrado Gigabyte Control Center [GIGABYTE.GigabyteControlCenter] Versión 24.07.02.01
+El propietario de esta aplicación le concede una licencia.
+Microsoft no es responsable, ni tampoco concede ninguna licencia de paquetes de terceros.
+Descargando https://download.gigabyte.com/FileList/Utility/GCC_24.07.02.01.zip
+   -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /                                                                                                                            -    \    |    /    -    \    |    /                                                                                                                         Se ha producido un error inesperado al ejecutar el comando: 
+Download request status is not success.
+0x80190194 : unknown error
+
+(3/29) Encontrado Git [Git.Git] Versión 2.47.0
+El propietario de esta aplicación le concede una licencia.
+Microsoft no es responsable, ni tampoco concede ninguna licencia de paquetes de terceros.
+Descargando https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.1/Git-2.47.0-64-bit.exe
+   -    \    |    /    -                                                                                                                           ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.00 B / 65.5 MB  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1024 KB / 65.5 MB  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  6.00 MB / 65.5 MB  ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  10.0 MB / 65.5 MB  ██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  15.0 MB / 65.5 MB  █████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  20.0 MB / 65.5 MB  ███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  25.0 MB / 65.5 MB  █████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  29.0 MB / 65.5 MB  ██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  32.0 MB / 65.5 MB  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  36.0 MB / 65.5 MB  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  40.0 MB / 65.5 MB  ████████████████████▒▒▒▒▒▒▒▒▒▒  44.0 MB / 65.5 MB  █████████████████████▒▒▒▒▒▒▒▒▒  47.5 MB / 65.5 MB  ███████████████████████▒▒▒▒▒▒▒  51.5 MB / 65.5 MB  █████████████████████████▒▒▒▒▒  55.5 MB / 65.5 MB  ███████████████████████████▒▒▒  59.5 MB / 65.5 MB  █████████████████████████████▒  64.5 MB / 65.5 MB  ██████████████████████████████  65.5 MB / 65.5 MB
+El hash del instalador se verificó correctamente
+Iniciando instalación de paquete...
+El instalador solicitará que se ejecute como administrador; espere un mensaje.
+   -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /                                                                                                                         Error del instalador con el código de salida: 1
+El registro del instalador está disponible en: C:\Users\faust\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\DiagOutputDir\WinGet-Git.Git.2.47.0-2024-10-30-12-13-43.611.log
+
+(4/29) Encontrado VLC media player [VideoLAN.VLC] Versión 3.0.21
+El propietario de esta aplicación le concede una licencia.
+Microsoft no es responsable, ni tampoco concede ninguna licencia de paquetes de terceros.
+Descargando https://download.videolan.org/videolan/vlc/3.0.21/win64/vlc-3.0.21-win64.exe
+   -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \    |    /    -    \ ---------------------------------------
+        Menú de Opciones
+---------------------------------------
+1. Limpiar archivos temporales y caché
+2. Verificar e instalar actualizaciones del sistema
+3. Sincronizar archivos con servidor remoto
+4. Salir
+---------------------------------------
+Sincronizando archivos...
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Inicio: miércoles, 30 de octubre de 202412:37:43
+   Origen - C:\Program Files\Git\ruta\local\de\archivos\
+     Destino - C:\Program Files\Git\MIR\
+
+    Archivos: 
+  Opciones: /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+ERROR: parámetro no válido nº3 : "C:/Program Files/Git/MIR"
+
+       Uso sencillo :: ROBOCOPY origen destino /MIR
+
+             origen :: Directorio de origen (unidad:\ruta o
+                       \\servidor\recurso_compartido\ruta).
+            destino :: Directorio de destino  (unidad:\ruta o
+                       \\servidor\recurso_compartido\ruta).
+               /MIR :: Reflejar un árbol de directorios completo.
+
+    Para obtener más información de uso, ejecute ROBOCOPY /?
+
+                                                          
+****  /MIR puede tanto ELIMINAR archivos como copiarlos
+Sincronización completada con éxito en Windows.
+---------------------------------------
+        Menú de Opciones
+---------------------------------------
+1. Limpiar archivos temporales y caché
+2. Verificar e instalar actualizaciones del sistema
+3. Sincronizar archivos con servidor remoto
+4. Salir
+---------------------------------------
+[0;33m---------------------------------------[0m
+[0;32m        Menú de Opciones[0m
+[0;33m---------------------------------------[0m
+[0;34m1. Limpiar archivos temporales y caché[0m
+[0;34m2. Verificar e instalar actualizaciones del sistema[0m
+[0;34m3. Sincronizar archivos con servidor remoto[0m
+[0;34m4. Salir[0m
+[0;33m---------------------------------------[0m
+[0;33mSincronizando archivos...[0m
+[0;34mSincronizando archivos a C:/Program Files/Git/MIR...[0m
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Inicio: miércoles, 30 de octubre de 202412:39:20
+   Origen - C:\Program Files\Git\ruta\local\de\archivos\
+     Destino - C:\Program Files\Git\MIR\
+
+    Archivos: 
+  Opciones: /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+ERROR: parámetro no válido nº3 : "C:/Program Files/Git/MIR"
+
+       Uso sencillo :: ROBOCOPY origen destino /MIR
+
+             origen :: Directorio de origen (unidad:\ruta o
+                       \\servidor\recurso_compartido\ruta).
+            destino :: Directorio de destino  (unidad:\ruta o
+                       \\servidor\recurso_compartido\ruta).
+               /MIR :: Reflejar un árbol de directorios completo.
+
+    Para obtener más información de uso, ejecute ROBOCOPY /?
+
+                                                          
+****  /MIR puede tanto ELIMINAR archivos como copiarlos
+[0;32m¡Sincronización completada con éxito en Windows![0m
+[0;33m---------------------------------------[0m
+[0;32m        Menú de Opciones[0m
+[0;33m---------------------------------------[0m
+[0;34m1. Limpiar archivos temporales y caché[0m
+[0;34m2. Verificar e instalar actualizaciones del sistema[0m
+[0;34m3. Sincronizar archivos con servidor remoto[0m
+[0;34m4. Salir[0m
+[0;33m---------------------------------------[0m
+[36m---------------------------------------[0m
+[36m        Menú de Opciones[0m
+[36m---------------------------------------[0m
+[32m1. Limpiar archivos temporales y caché[0m
+[32m2. Verificar e instalar actualizaciones del sistema[0m
+[32m3. Sincronizar archivos con servidor remoto[0m
+[32m4. Salir[0m
+[36m---------------------------------------[0m
+[33mSincronizando archivos...[0m
+[34mSincronizando archivos a C:/ruta/del/destino...[0m
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Inicio: miércoles, 30 de octubre de 202412:40:58
+   Origen - C:\Program Files\Git\ruta\local\de\archivos\
+     Destino - C:\ruta\del\destino\
+
+    Archivos: 
+  Opciones: /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+ERROR: parámetro no válido nº3 : "C:/Program Files/Git/MIR"
+
+       Uso sencillo :: ROBOCOPY origen destino /MIR
+
+             origen :: Directorio de origen (unidad:\ruta o
+                       \\servidor\recurso_compartido\ruta).
+            destino :: Directorio de destino  (unidad:\ruta o
+                       \\servidor\recurso_compartido\ruta).
+               /MIR :: Reflejar un árbol de directorios completo.
+
+    Para obtener más información de uso, ejecute ROBOCOPY /?
+
+                                                          
+****  /MIR puede tanto ELIMINAR archivos como copiarlos
+[32m¡Sincronización completada con éxito en Windows![0m
+[36m---------------------------------------[0m
+[36m        Menú de Opciones[0m
+[36m---------------------------------------[0m
+[32m1. Limpiar archivos temporales y caché[0m
+[32m2. Verificar e instalar actualizaciones del sistema[0m
+[32m3. Sincronizar archivos con servidor remoto[0m
+[32m4. Salir[0m
+[36m---------------------------------------[0m
+[36m---------------------------------------[0m
+[36m        Menú de Opciones[0m
+[36m---------------------------------------[0m
+[32m1. Limpiar archivos temporales y caché[0m
+[32m2. Verificar e instalar actualizaciones del sistema[0m
+[32m3. Sincronizar archivos con servidor remoto[0m
+[32m4. Salir[0m
+[36m---------------------------------------[0m
+[33mSincronizando archivos...[0m
+[34mSincronizando archivos a C:/ruta/del/destino...[0m
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Inicio: miércoles, 30 de octubre de 202412:42:09
+   Origen - C:\Program Files\Git\ruta\local\de\archivos\
+     Destino - C:\ruta\del\destino\
+
+    Archivos: 
+  Opciones: /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+ERROR: parámetro no válido nº3 : "C:/Program Files/Git/MIR"
+
+       Uso sencillo :: ROBOCOPY origen destino /MIR
+
+             origen :: Directorio de origen (unidad:\ruta o
+                       \\servidor\recurso_compartido\ruta).
+            destino :: Directorio de destino  (unidad:\ruta o
+                       \\servidor\recurso_compartido\ruta).
+               /MIR :: Reflejar un árbol de directorios completo.
+
+    Para obtener más información de uso, ejecute ROBOCOPY /?
+
+                                                          
+****  /MIR puede tanto ELIMINAR archivos como copiarlos
+[32m¡Sincronización completada con éxito en Windows![0m
+[36m---------------------------------------[0m
+[36m        Menú de Opciones[0m
+[36m---------------------------------------[0m
+[32m1. Limpiar archivos temporales y caché[0m
+[32m2. Verificar e instalar actualizaciones del sistema[0m
+[32m3. Sincronizar archivos con servidor remoto[0m
+[32m4. Salir[0m
+[36m---------------------------------------[0m
+[33mSaliendo...[0m
